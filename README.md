@@ -29,3 +29,24 @@
 **Run the following commands on the command line:**
 * docker run -t -i -p 8888:8888 jupyter/scipy-notebook /bin/bash    
 (presumes experience using Docker)
+
+### Resources for break out sessions
+* Pandas Documentation 
+  * http://pandas.pydata.org
+* Python Documentation
+  * http://docs.python.org/3/
+* Visualization links
+  * http://stanford.edu/~mwaskom/software/seaborn/
+* Stack Overflow
+  * http://stackoverflow.com
+* Help functions and docstrings available in the notebook
+
+
+
+### My learning resources
+* Practical Data Analysis with Python 
+  * http://leanpub.com/analyticshandbook
+* Free screencasts on Python and Numpy basics
+  * http://youtube.com/channel/UCAteIywHWq-WhiXIj_1vS3w
+* Intro Python slides
+  * http://slides.com/practicaldatascience
