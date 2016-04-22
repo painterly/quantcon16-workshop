@@ -20,6 +20,8 @@
 **Run the following commands on the command line:**
 * docker run -t -i -p 8888:8888 jupyter/scipy-notebook /bin/bash
 
+See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83ab3d36567f2d62
+
 ### Resources for break out sessions
 * Pandas Documentation 
   * http://pandas.pydata.org
