@@ -5,19 +5,19 @@
 
 #### Option 1
 **If you do have or want to install Python3 and Pip:**
-* Install Python from https://www.python.org/downloads/ 
+* Install Python from https://www.python.org/downloads/     
+  (note: your OS may already have Python installed)
 
 **Run the following commands on the command line:**
-* pip3 install jupyter numpy pandas matplotlib seaborn    
-(if any issues with dependencies then go with Option 1)
+* pip3 install jupyter numpy pandas matplotlib seaborn
 
 
 #### Option 2
 **If you want to use a Docker container:**
-* Install docker
-* docker pull jupyter/scipy-notebook
+* Install docker (go to docker.com and follow the instructions)
 
 **Run the following commands on the command line:**
+* docker pull jupyter/scipy-notebook
 * docker run -t -i -p 8888:8888 jupyter/scipy-notebook /bin/bash
 
 See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83ab3d36567f2d62
@@ -35,10 +35,8 @@ See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83a
 
 
 
-### My learning resources
+### Learning resources
 * Practical Data Analysis with Python 
   * http://leanpub.com/analyticshandbook
-* Free screencasts on Python and Numpy basics
-  * http://youtube.com/channel/UCAteIywHWq-WhiXIj_1vS3w
 * Intro Python slides
   * http://slides.com/practicaldatascience
