@@ -23,6 +23,7 @@
 See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83ab3d36567f2d62
 
 
+
 ### Learning resources
 * Practical Data Analysis with Python 
   * http://leanpub.com/analyticshandbook
