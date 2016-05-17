@@ -22,6 +22,14 @@
 
 See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83ab3d36567f2d62
 
+
+### Learning resources
+* Practical Data Analysis with Python 
+  * http://leanpub.com/analyticshandbook
+* Intro Python slides
+  * http://slides.com/practicaldatascience
+
+
 ### Resources for break out sessions
 * Pandas Documentation 
   * http://pandas.pydata.org/pandas-docs/stable/
@@ -35,8 +43,3 @@ See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83a
 
 
 
-### Learning resources
-* Practical Data Analysis with Python 
-  * http://leanpub.com/analyticshandbook
-* Intro Python slides
-  * http://slides.com/practicaldatascience
