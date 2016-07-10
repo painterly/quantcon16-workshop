@@ -37,7 +37,7 @@ See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83a
 * Python Documentation
   * http://docs.python.org/3/
 * Visualization links
-  * http://stanford.edu/~mwaskom/software/seaborn/
+  * http://stanford.edu/~mwaskom/software/seaborn
 * Stack Overflow
   * http://stackoverflow.com
 * Help functions and docstrings available in the notebook
