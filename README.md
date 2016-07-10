@@ -5,7 +5,7 @@
 
 #### Option 1
 **If you do have or want to install Python3 and Pip:**
-* Install Python from https://www.python.org/downloads/     
+* Install Python from https://www.python.org/downloads     
   (note: your OS may already have Python installed)
 
 **Run the following commands on the command line:**
