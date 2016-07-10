@@ -33,7 +33,7 @@ See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83a
 
 ### Resources for break out sessions
 * Pandas Documentation 
-  * http://pandas.pydata.org/pandas-docs/stable/
+  * http://pandas.pydata.org/pandas-docs/stable
 * Python Documentation
   * http://docs.python.org/3/
 * Visualization links
