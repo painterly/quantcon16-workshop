@@ -25,8 +25,6 @@ See this gist for details. https://gist.github.com/painterly/113b32ac6c00c7fd83a
 
 
 ### Learning resources
-* Practical Data Analysis with Python 
-  * http://leanpub.com/databook
 * Intro Python slides
   * http://slides.com/practicaldatascience
 
